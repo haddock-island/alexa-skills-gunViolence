@@ -1,0 +1,16 @@
+Category:
+Education & Reference
+
+Testing Instructions:
+This is based on the Fact Skill Template
+
+Short Description:
+This is a skill that will give you a random fact about <cause name>.
+
+Long Description:
+The purpose of this skill is to inform users about the facts around <cause name>. There are no prerequisites to this skill other than the desire to learn more about <cause name>. If you ever wanted to know more about <cause name> or have been personally affected by <cause name>, this skill is the right one for you.  
+
+Example Phrases:
+Alexa open <invocation name>
+Alexa ask <invocation name> for a fact
+Alexa have <invocation name> tell me a fact
